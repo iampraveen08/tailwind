@@ -16,6 +16,7 @@ function App() {
         <Another />
         <Footer></Footer>
         <Create></Create>
+        <Navbar></Navbar>
     </>
   );
 }
