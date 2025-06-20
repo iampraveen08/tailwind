@@ -7,6 +7,7 @@ import Team from "./components/Team.jsx";
 import Footer from "./components/Footer.jsx";
 import Create from "./components/Create.jsx";
 import New from "./components/New.jsx";
+import Location from "./components/Location.jsx";
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
         <Create></Create>
         <Navbar></Navbar>
         <New></New>
+        <Location></Location>
+
     </>
   );
 }
